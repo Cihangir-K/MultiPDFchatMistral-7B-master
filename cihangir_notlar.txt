@@ -1,0 +1,28 @@
+model path app.py içinde güncellendi (path için \ değil / kullanıldı )
+
+streamlit run app.py
+
+
+pip install llamacpp
+pip install streamlit
+pip install streamlit-chat
+
+
+
+pip install llama-cpp-python sıkıntılı o yüzden
+
+https://visualstudio.microsoft.com/
+ visual studio python node js desktop development c++ linux and embedded development with c++ (yaklaşık 10 gb)
+
+
+pip install llama-cpp-python
+
+
+activate mistral_pdf
+
+cd C:\Users\E.C.E\anaconda3\envs\Mistral_Pdf\Multi_pdf\MultiPDFchatMistral-7B-master
+
+streamlit run app.py
+
+  Local URL: http://localhost:8501
+  Network URL: http://192.168.64.166:8501
